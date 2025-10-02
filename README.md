@@ -1,5 +1,11 @@
 # 📦 SQL_Python_EcommerceProject
 
+## 📚 Table of Contents
+- [Introduction](#-introduction)  
+- [Features](#-features)  
+
+---
+
 ## 📖 Introduction
 This project is an **E-commerce Data Analysis System** built using **Python and SQL**.  
 It demonstrates how to load raw CSV data into a SQL database, perform complex queries, and analyze customer behavior, sales trends, and product performance.  
@@ -11,13 +17,6 @@ The project includes:
 
 ---
 
-## 📚 Table of Contents
-- [Introduction](#-introduction)  
-- [Features](#-features)  
-- [Project Structure](#-project-structure)  
-
----
-
 ## ✨ Features
 - Load **CSV datasets** into a SQL database using Python  
 - Run **SQL queries** for business-related questions  
@@ -25,13 +24,3 @@ The project includes:
 - Interactive analysis with **Jupyter Notebook**  
 - Modular design for scalability  
 
----
-
-SQL_Python_EcommerceProject/
-│── Project.ipynb       # Main analysis notebook
-
-│── csv_to_sql.py       # Script to import CSV into SQL
-
-│── Questions.txt       # List of SQL/business questions
-
-│── README.md           # Project documentation
