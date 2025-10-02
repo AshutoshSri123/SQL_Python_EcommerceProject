@@ -29,6 +29,9 @@ The project includes:
 
 SQL_Python_EcommerceProject/
 │── Project.ipynb       # Main analysis notebook
+
 │── csv_to_sql.py       # Script to import CSV into SQL
+
 │── Questions.txt       # List of SQL/business questions
+
 │── README.md           # Project documentation
